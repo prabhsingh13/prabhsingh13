@@ -113,7 +113,11 @@ You can click the Preview link to take a look at your changes.
   <br/>
 <br/>
 
-<a href="https://github.com/prabhsingh13/github-readme-activity-graph"><img alt="Prabhjeet Singh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prabhsingh13&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
+<!-- <a href="https://github.com/prabhsingh13/github-readme-activity-graph"><img alt="Prabhjeet Singh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prabhsingh13&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a> -->
+<a href="https://github.com/prabhsingh13">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prabhsingh13&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhsingh13&theme=dark&layout=compact" />
+</a>
 
 ## Connect with me:
 <p align="left">
