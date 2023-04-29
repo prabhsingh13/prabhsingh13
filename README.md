@@ -3,7 +3,7 @@
 ## 🙋‍♂️ About Me
 
 - 👋 Hi I'm **Prabhjeet Singh**
-- 🌱 I’m currently learning **React.js, php, Python, Etc.**
+- 🌱 I’m currently practicing **MERN STACK**
 - 👯 I’m looking to collaborate on **Web Application Projects**
 - 👨‍💻 All of my projects are available at **[www.prabhsingh.ga](https://www.prabhsingh.ga)**
 - 📫 How to reach me **prabhjeetsingh1013@gmail.com**
