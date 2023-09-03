@@ -5,7 +5,7 @@
 - 👋 Hi I'm **Prabhjeet Singh**
 - 🌱 I’m currently practicing **MERN STACK**
 - 👯 I’m looking to collaborate on **Web Application Projects**
-- 👨‍💻 All of my projects are available at **[www.prabhsingh.ga](https://www.prabhsingh.ga)**
+- 👨‍💻 All of my projects are available at **[www.prabhsingh.in](https://www.prabhsingh.in)**
 - 📫 How to reach me **prabhjeetsingh1013@gmail.com**
 
 <!---
