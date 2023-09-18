@@ -170,9 +170,6 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
             alt="mongodb" width="40" height="40" /> </a>
-    <a href="https://www.djangoproject.com/" target="_blank"
-            rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40"
-            height="40" /> </a> 
     <a href="https://laravel.com/" target="_blank"
         rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
             alt="laravel" width="40" height="40" /> </a>   
